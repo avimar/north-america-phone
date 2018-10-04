@@ -1,0 +1,16 @@
+{
+  "name": "north-america-phone",
+  "version": "1.0.0",
+  "description": "area code and lrn info and utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avi Marcus <avi@bestfone.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "csvtojson": "^2.0.8",
+    "got": "^9.2.2",
+    "lodash": "^4.17.11"
+  }
+}

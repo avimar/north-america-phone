@@ -1,0 +1,12 @@
+1) Neustar is the company that maintains the area code number plan for all +1.
+
+https://www.nationalnanpa.com/reports/reports_npa.html
+Specifically, https://www.nationalnanpa.com/nanp1/npa_report.csv
+
+We're going to take anything that's got a country listed -- US or Canada, or anything else, even if not "active" yet.
+Then, save by area code for country + state (non usa/canada have no state listed)
+
+
+2) Source for USA hash of 2 letter abbreviations (includes USA territories):
+https://gist.githubusercontent.com/mshafrir/2646763
+https://gist.githubusercontent.com/mshafrir/2646763/raw/8b0dbb93521f5d6889502305335104218454c2bf/states_hash.json
